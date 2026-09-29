@@ -3,9 +3,9 @@
   <!-- Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,50:7928CA,100:FF007F&height=220&section=header&text=Mohammed%20Masood&fontSize=42&fontAlignY=38&desc=Final%20Year%20Data%20Science%20%7C%20AI%20%26%20Autonomous%20Systems%20Architect&descAlignY=58&descAlign=50&animation=twinkling" width="100%" alt="Mohammed Masood Banner"/>
 
-  <!-- Aesthetic Cyberpunk / Lo-Fi Coding GIF -->
+  <!-- Unique Cyberpunk Retro Terminal Animation -->
   <p align="center">
-    <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="680" alt="Cyberpunk Coding GIF" style="border-radius: 12px;"/>
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Cyberpunk Terminal Animation" style="border-radius: 8px;"/>
   </p>
 
   <!-- Dynamic Typing SVG -->
@@ -41,7 +41,7 @@
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ### 🛰️ Terminal: `whoami`
 
@@ -55,7 +55,7 @@ masood@cybercore:~$ neofetch --profile
 - 🧠 **Technical Focus**: Multi-agent orchestration, production RAG pipelines, distributed AI systems, business intelligence dashboards, and resilient microservices.
 - 📍 **Base**: Bengaluru, Karnataka, India 🇮🇳
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ### 🚀 Featured Innovations & Flagship Builds
 
@@ -102,7 +102,7 @@ masood@cybercore:~$ neofetch --profile
   </tr>
 </table>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ### 🛠️ Weapons of Choice & Technical Arsenal
 
@@ -167,7 +167,7 @@ masood@cybercore:~$ neofetch --profile
   <img src="https://skillicons.dev/icons?i=python,pytorch,scikitlearn,fastapi,react,nextjs,ts,tailwind,postgres,mongodb,redis,docker,git,linux,aws,vercel&perline=8&theme=dark" alt="Quick Stack Banner" />
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ### 📊 GitHub Activity & Cyberpunk Telemetry
 
@@ -190,7 +190,7 @@ masood@cybercore:~$ neofetch --profile
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ### 💬 Get in Touch
 
