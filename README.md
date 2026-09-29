@@ -1,11 +1,16 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,50:7928CA,100:FF007F&height=220&section=header&text=Mohammed%20Masood&fontSize=42&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Autonomous%20Systems%20Architect&descAlignY=58&descAlign=50&animation=twinkling" width="100%" alt="Mohammed Masood Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,50:7928CA,100:FF007F&height=220&section=header&text=Mohammed%20Masood&fontSize=42&fontAlignY=38&desc=Final%20Year%20Data%20Science%20%7C%20AI%20%26%20Autonomous%20Systems%20Architect&descAlignY=58&descAlign=50&animation=twinkling" width="100%" alt="Mohammed Masood Banner"/>
+
+  <!-- Aesthetic Cyberpunk / Lo-Fi Coding GIF -->
+  <p align="center">
+    <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="680" alt="Cyberpunk Coding GIF" style="border-radius: 12px;"/>
+  </p>
 
   <!-- Dynamic Typing SVG -->
   <a href="https://mohammed-masood.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=00F5D4&center=true&vCenter=true&multiline=false&width=700&height=50&lines=%E2%9A%A1+Data+Science+%26+Machine+Learning+Practitioner;%F0%9F%A4%96+Building+Production+Autonomous+AI+Agents+%26+RAG;%F0%9F%8C%90+Creator+of+JanSetu+AI+(Digital+Public+Good);%F0%9F%9A%80+Rapid+Hackathon+Builder+%26+Full-Stack+Architect" alt="Dynamic Typing Subtitle" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=00F5D4&center=true&vCenter=true&multiline=false&width=700&height=50&lines=%E2%9A%A1+B.E.+Data+Science+@+Bangalore+Institute+of+Technology;%F0%9F%A4%96+Building+Autonomous+AI+Agents+%26+Production+RAG;%F0%9F%8C%90+Creator+of+JanSetu+AI+(Digital+Public+Good);%F0%9F%9A%80+Rapid+Hackathon+Builder+%E2%80%A2+90%2B+Prototypes+Shipped" alt="Dynamic Typing Subtitle" />
   </a>
 
   <!-- Social & Link Badges -->
@@ -29,9 +34,9 @@
 
   <!-- Quick Status Badges -->
   <p align="center">
-    <img src="https://img.shields.io/badge/Focus-GenAI%20%7C%20Agents%20%7C%20RAG-00F5D4?style=flat-square" alt="Focus"/>
-    <img src="https://img.shields.io/badge/Hackathons-90%2B%20Prototypes%20Shipped-7928CA?style=flat-square" alt="Hackathons"/>
-    <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborations-FF007F?style=flat-square" alt="Status"/>
+    <img src="https://img.shields.io/badge/College-Bangalore%20Institute%20of%20Technology-00F5D4?style=flat-square&logo=google-classroom&logoColor=black" alt="BIT"/>
+    <img src="https://img.shields.io/badge/Year-Final%20Year%20(4th%20Year)%20B.E.-7928CA?style=flat-square" alt="Final Year"/>
+    <img src="https://img.shields.io/badge/Hackathons-90%2B%20Public%20Prototypes-FF007F?style=flat-square" alt="Hackathons"/>
   </p>
 
 </div>
@@ -44,11 +49,11 @@
 masood@cybercore:~$ neofetch --profile
 ```
 
-- 🧠 **About Me**: Data Science student & AI Engineer specialized in autonomous agents, production RAG pipelines, and predictive machine learning.
-- 💡 **Flagship Initiative**: Architect of [JanSetu AI (जनसेतु)](https://github.com/masood-mashu/jansetu-ai) — an open-source Digital Public Good translating citizen distress signals into verifiable capital-works recommendations via Google Gemini.
-- 🛠️ **System Engineering**: Bridging the gap between frontier models (Gemini, OpenAI, Hugging Face) and rock-solid backend infrastructure (FastAPI, PostgreSQL, Redis, Docker).
-- 🏆 **Hackathons & Prototyping**: Active competitor with **90+ public repositories**, turning complex domain problems into working full-stack AI products in record time.
-- 📍 **Base**: Bangalore, India 🇮🇳
+- 🎓 **Academics**: Final Year (4th Year) **B.E. in Computer Science & Engineering (Data Science)** at **Bangalore Institute of Technology (BIT)**, Bangalore.
+- 🏆 **Hackathons & Prototyping**: Active hackathon & datathon competitor with **90+ public repositories** — turning high-stakes domain problems into production-ready full-stack AI applications in 24–48 hours.
+- 💡 **Flagship Initiative**: Creator of [JanSetu AI (जनसेतु)](https://github.com/masood-mashu/jansetu-ai) — an open-source Digital Public Good translating citizen distress signals into verifiable capital-works recommendations via Google Gemini.
+- 🧠 **Technical Focus**: Multi-agent orchestration, production RAG pipelines, distributed AI systems, business intelligence dashboards, and resilient microservices.
+- 📍 **Base**: Bengaluru, Karnataka, India 🇮🇳
 
 ---
 
@@ -99,38 +104,68 @@ masood@cybercore:~$ neofetch --profile
 
 ---
 
-### ⚡ Weapons of Choice / Tech Stack
+### 🛠️ Weapons of Choice & Technical Arsenal
 
-<div align="center">
+#### 🔤 Core Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash"/>
+</p>
 
-#### 🧠 Artificial Intelligence & Machine Learning
-<img src="https://skillicons.dev/icons?i=python,pytorch,scikitlearn,tensorflow&theme=dark" alt="AI & ML" height="42" />
+#### 🧠 Data Science, Machine Learning & LLMs
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/Sentence_Transformers-FF6F00?style=flat-square&logo=huggingface&logoColor=white" alt="Sentence Transformers"/>
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75C2?style=flat-square&logo=google&logoColor=white" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LlamaIndex-6A1B9A?style=flat-square&logo=diagram-next&logoColor=white" alt="LlamaIndex"/>
+</p>
 
-#### 🌐 Web Architecture & Runtimes
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,react,nextjs,typescript,javascript&theme=dark" alt="Web Stack" height="42" />
+#### 📈 Visualization & Business Intelligence (BI)
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" alt="Chart.js"/>
+</p>
 
-#### 🗄️ Databases, Cloud & Vector Stores
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase,aws,docker,git,linux,bash&theme=dark" alt="Infra Stack" height="42" />
+#### ⚡ Full-Stack & Backend Systems
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+</p>
 
-</div>
+#### 🗄️ Databases, Cloud & DevOps
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+</p>
 
 <br/>
 
-<details>
-  <summary><b>🔍 Detailed Tech Breakdown (Click to expand)</b></summary>
-  <br/>
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | `Python`, `TypeScript`, `JavaScript`, `C++`, `SQL`, `Bash` |
-| **GenAI / Agents** | `Google Gemini API`, `OpenAI API`, `Hugging Face`, `LangChain`, `LlamaIndex`, `Vector RAG` |
-| **Data Science / ML** | `PyTorch`, `Scikit-Learn`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn` |
-| **Backend & APIs** | `FastAPI`, `Node.js`, `Express`, `Flask`, `RESTful APIs`, `WebSockets` |
-| **Frontend & UI** | `Next.js`, `React`, `TailwindCSS`, `Vite`, `HTML5/CSS3` |
-| **Databases & Cache**| `PostgreSQL`, `MongoDB`, `Redis`, `Supabase`, `Pinecone`, `ChromaDB` |
-| **DevOps & Tooling** | `Docker`, `Git`, `GitHub Actions`, `Linux (Ubuntu)`, `AWS`, `Vercel` |
-
-</details>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,scikitlearn,fastapi,react,nextjs,ts,tailwind,postgres,mongodb,redis,docker,git,linux,aws,vercel&perline=8&theme=dark" alt="Quick Stack Banner" />
+</div>
 
 ---
 
@@ -160,7 +195,7 @@ masood@cybercore:~$ neofetch --profile
 ### 💬 Get in Touch
 
 <div align="center">
-  <p>Whether you want to collaborate on an open-source AI agent, discuss hackathon ideas, or explore machine learning architectures, my inbox is always open!</p>
+  <p>Whether you want to collaborate on an open-source AI agent, build in hackathons, or explore machine learning architectures, my inbox is always open!</p>
   <a href="mailto:masoodmashu03@gmail.com">
     <img src="https://img.shields.io/badge/Say%20Hello-masoodmashu03%40gmail.com-00F5D4?style=for-the-badge&logo=mail.ru&logoColor=0D1117" alt="Contact"/>
   </a>
